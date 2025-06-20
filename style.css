@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f8f8;
+  color: #333;
+}
+header {
+  background: orange;
+  color: white;
+  text-align: center;
+  padding: 2em;
+}
+.logo {
+  width: 80px;
+}
+section {
+  padding: 2em;
+}
+h2 {
+  color: #e67e22;
+}
+ul li {
+  margin: 0.5em 0;
+}
+img {
+  margin: 1em;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+button {
+  background: orange;
+  color: white;
+  padding: 0.7em 1.2em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
